@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore" type="GitIgnore file" />
+      <mapping ext="ignore" type="Ignore file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+    </extensionMap>
+  </component>
+</application>
